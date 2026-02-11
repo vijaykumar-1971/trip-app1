@@ -1,1 +1,4 @@
-
+streamlit==1.31.0
+streamlit-gsheets==1.4.5
+pandas
+fpdf2
