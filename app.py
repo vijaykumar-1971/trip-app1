@@ -1,7 +1,7 @@
 import streamlit as st
 from streamlit_gsheets import GSheetsConnection
 import pandas as pd
-from fpdf import FPDF
+from fpdf import FPDF # This stays as fpdf even for fpdf2
 import datetime
 
 # --- 1. APP CONFIG ---
